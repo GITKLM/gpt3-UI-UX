@@ -1,5 +1,7 @@
 # UI/UX website GPT-3 AI
 
+![image](https://github.com/GITKLM/gpt3-UI-UX/assets/152407061/06a72784-1516-47e3-aa5d-1956f924f073)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
